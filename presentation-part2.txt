@@ -1,0 +1,1 @@
+The second part of the presentation is located here: https://elearning.bits.vib.be/courses/containers-as-cornerstone-of-reproducible-data-analysis/
